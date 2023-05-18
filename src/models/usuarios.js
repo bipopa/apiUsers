@@ -1,0 +1,1 @@
+const EsquemaUsuario {email, password, id} = req.body;

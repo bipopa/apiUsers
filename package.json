@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "flask": "^0.2.10",
+    "morgan": "^1.10.0",
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
